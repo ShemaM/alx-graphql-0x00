@@ -9,8 +9,6 @@ The work is segmented into distinct directories, each representing a progressive
 * **Level 0:** `alx-graphql-0x00` (Fundamentals)
 * **Level 1 & 2:** `alx-graphql-0x01` / `alx-graphql-0x02` (Frontend Integration)
 
-
-
 ## Learning Objectives
 
 ### Level 0: GraphQL Fundamentals
@@ -27,8 +25,6 @@ The work is segmented into distinct directories, each representing a progressive
 * **Hooks:** Use the `useQuery` hook to execute GraphQL operations within components.
 * **State Management:** Manage local component state (e.g., pagination) and refetch data.
 * **Architecture:** Structure a React app with clear separation of concerns (queries, interfaces, components).
-
-
 
 ## Key Concepts
 
@@ -52,6 +48,7 @@ The work is segmented into distinct directories, each representing a progressive
 ## Real-World Application
 
 This project mimics the architecture of modern content-driven web applications, such as:
+
 1. **E-commerce:**  Querying product details or paginated catalogs.
 2. **Content Platforms:** Fetching blogs or news articles (analogous to Episodes).
 3. **Dashboards:** Displaying filtered and paginated data from complex backends.
